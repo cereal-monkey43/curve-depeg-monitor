@@ -1,0 +1,2 @@
+timestamp_utc,pool,eth_balance,steth_balance,imbalance_ratio,front_expiry,spot,put_strike,call_strike,put_delta,call_delta,put_iv,call_iv,risk_reversal_25d,discount_bps_10k_steth,executable_price_10k_steth,imbalance_score,skew_score,execution_score,total_score,state
+2026-05-06T02:14:53.157265+00:00,steCRV,12007.536094688025,29876.426499868267,0.28668577065935635,6MAY26,2371.3,2325.0,2425.0,-0.20064474346599215,0.2339704667180208,45.53,57.74,12.21,618.8846991449426,0.9381115300855057,0,0,2,2,normal
